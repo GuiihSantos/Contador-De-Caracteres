@@ -49,3 +49,13 @@ textarea {
 #toggle:hover {
     background-color: #0069d9;
 }
+
+@media (width < 586px){
+    h1 {
+        text-align: center;
+    }
+
+    .field {
+    width: 300px;
+}
+}
